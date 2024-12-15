@@ -70,6 +70,6 @@ public class Main {
         } catch (WrongAge e) {
             System.out.println("Error: " + e.getMessage());
         }
-System.out.println("Harsha Vardhan\n1BM23CS136");
+System.out.println("Aswath Reddy\n1BM19CS028");
     }
 }
