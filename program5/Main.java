@@ -5,8 +5,8 @@ import java.util.Scanner;
 
 class PrintInfo {
    static void print() {
-        System.out.println("Name: Kalaga Harsha Vardhan");
-        System.out.println("USN: 1BM23CS136");
+        System.out.println("Name: Aswath Pavith Reddy");
+        System.out.println("USN: 1BM19CS028");
     }
 }
 
